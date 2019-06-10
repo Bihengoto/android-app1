@@ -1,0 +1,53 @@
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [warning] libpng warning: iCCP: known incorrect sRGB profile
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] ==== STARTING GENYMOTION ====
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] Genymotion Version: "3.0.2" 20190412-f31d5dd
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] Proxy configuration: no proxy used
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] Host date and time: "28 May 2019 08:39:40 -0400"
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] [LaunchpadApp] Started with ("./genymotion")
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] table stats doesn't exist, creating it and removing stats key in configuration file
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] GL_VENDOR: "Intel Open Source Technology Center"
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] GL_RENDERER: "Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) "
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] GL_VERSION: "3.0 Mesa 18.3.2"
+2019-05-28T08:39:40-04:00 [Genymotion:3892] [debug] GL_SHADING_LANGUAGE_VERSION: "1.30"
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [debug] [VBox] Loading "vboxmanage" plugin
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [warning] Template cache from "/home/kuro/.Genymobile/Genymotion/templates/sharedTemplates.list" is outdated, ignoring it
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [warning] Template cache from "/home/kuro/.Genymobile/Genymotion/templates/templates.list" is outdated, ignoring it
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [warning] User not connected.
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [debug] [VBox] Plugin "vboxmanage" loaded
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [debug] [VBox] Chipset: "GenuineIntel"
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [debug] [VBox] CPUID 0x1 (Intel): ECX= "7ffafbbf"
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [debug] [VBox] Path: "VBoxManage"
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [debug] [VBox] Call: ("list", "hostinfo")
+2019-05-28T08:39:46-04:00 [Genymotion:3892] [critical] [VBox] Can't run VBoxManage
+2019-05-28T08:39:47-04:00 [Genymotion:3892] [debug] [VBox] Call: ("list", "hostinfo")
+2019-05-28T08:39:47-04:00 [Genymotion:3892] [critical] [VBox] Can't run VBoxManage
+2019-05-28T08:39:47-04:00 [Genymotion:3892] [debug] [VBox] Call: ("list", "hostinfo")
+2019-05-28T08:39:47-04:00 [Genymotion:3892] [critical] [VBox] Can't run VBoxManage
+2019-05-28T08:39:48-04:00 [Genymotion:3892] [debug] [VBox] Call: ("list", "hostinfo")
+2019-05-28T08:39:48-04:00 [Genymotion:3892] [critical] [VBox] Can't run VBoxManage
+2019-05-28T08:39:48-04:00 [Genymotion:3892] [debug] [VBox] Call: ("list", "hostinfo")
+2019-05-28T08:39:48-04:00 [Genymotion:3892] [critical] [VBox] Can't run VBoxManage
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [debug] [VBox] Call: ("list", "hostinfo")
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [critical] [VBox] Can't run VBoxManage
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [warning] empty result for 'vboxmanage list hostinfo'
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [critical] [VBox] "Fail to load vboxmanage plugin from /home/kuro/Downloads/genymotion/plugins/"
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [critical] Unable to find VM Engine. Plugin loading aborted.
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [debug] Generate all logs
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [debug] [LogCollector] VM engine not available
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [debug] [LogCollector] Creating temporary folder: "/tmp/genymotion-logs-tmp"
+2019-05-28T08:39:49-04:00 [Genymotion:3892] [warning] [LogCollector] Running "/home/kuro/Downloads/genymotion/tools/glewinfo" with args ()
+2019-05-28T08:39:50-04:00 [Genymotion:3892] [warning] [LogCollector] Running "lsmod" with args ()
+2019-05-28T08:39:50-04:00 [Genymotion:3892] [warning] [LogCollector] Running "lspci" with args ()
+2019-05-28T08:39:50-04:00 [Genymotion:3892] [warning] [LogCollector] Running "ip" with args ("rule")
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [warning] [LogCollector] Running "ip" with args ("route")
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [warning] [LogCollector] Running "free" with args ()
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [warning] [LogCollector] Running "ps" with args ("afx")
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [warning] [LogCollector] Running "df" with args ("-kh")
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [warning] [LogCollector] Running "dmesg" with args ()
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [warning] [LogCollector] Running "cat" with args ("/proc/cpuinfo")
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [debug] [LogCollector] Copying file "/home/kuro/.Genymobile/genymotion.log" to "/tmp/genymotion-logs-tmp/general-genymotion.log"
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [debug] [archiveDirectory] Archive created under "/home/kuro/genymotion-logs-20190528-083949.zip"
+2019-05-28T08:39:51-04:00 [Genymotion:3892] [debug] [LogCollector] Removing temporary folder: "/tmp/genymotion-logs-tmp"
+2019-05-28T08:40:04-04:00 [Genymotion:3892] [debug] ==== STOPPING GENYMOTION ====
+2019-05-28T08:40:04-04:00 [Genymotion:3892] [debug] Exit status: 3
